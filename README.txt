@@ -1,16 +1,17 @@
-James Maxwell: 20357209
+Please do not copy or reuse any part of this code. 
+Please abide by Policy 71.
 
-Dylan Drover: 20323691
+This real time operating system was created for MTE 241 (Real-Time Operating Systems) at the University of Waterloo. It is written in C.
 
-Patrick Ellsworth: 20339982
+This project attempts to simulate an operating system. It runs on top of the Linux kernel within a linux OS. A priority based scheduler was used, with simulated "hardward interrupts" provided by Linux. It performs context switching with setjump and longjmp.
 
-Brendan Chwyl: 20328506
+A perfect mark was achieved on this project. 
 
-
-
-
-All of our files are contained in one folder. The following files are present
-
+Completed By:
+James Maxwell - Team Lead
+Dylan Drover
+Patrick Ellsworth
+Brendan Chwyl
 
 
 
